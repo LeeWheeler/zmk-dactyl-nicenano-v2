@@ -4,10 +4,10 @@
 # control, add individual board + shield combinations to
 # the `include` property, e.g:
 #
-board: [ "nice_nano_v2" ]
+board: [ "nice_nano@2.0.0//zmk" ]
 shield: [ "dactyl_cc_left", "dactyl_cc_right", "settings_reset"]
 # - shield settings_reset
   # - board: bdn9_rev2
-  # - board: nice_nano_v2
+  # - board: nice_nano@2.0.0//zmk
   #   shield: reviung41
 #
