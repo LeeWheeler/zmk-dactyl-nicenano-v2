@@ -6,7 +6,7 @@
 #
 board: [ "nice_nano@2.0.0//zmk" ]
 shield: [ "dactyl_cc_left", "dactyl_cc_right", "settings_reset"]
-snippet: [ "studio-rpc-usb-uart" ]
+# snippet: [ "studio-rpc-usb-uart" ]
 # - shield settings_reset
   # - board: bdn9_rev2
   # - board: nice_nano@2.0.0//zmk
